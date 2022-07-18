@@ -22,11 +22,30 @@ organizada meus projetos e progressos na área da progrmação e tecnologia.
 
  ** React- ** em desenvolvimento 🚀
 
+ 
+
+ ### Background 
+    O background foi desenvolvido para interpretar uma noite de inverno (Um gradient (__Preto ao azul claro__) com particulas animadas na cor branca para interpretar a neve), e um background para interpretar uma noite de verão (Um gradient (preto ao amarelo) com particulas na cor amarelo vivo para interpretar vagalumes). 
+
 ## Features 
+[X]Background animado 
+[ ] Criar header com Navigate
+[ ] Criar botão para mudar o tema
 
-[] Home page (Seja bem vindo + sobre mim)
+[ ] Home page (Seja bem vindo, detalhes e funcionalidades da aplicação).
 
-[] Projetos
-    [] Detalhes Porjeto
+[ ] Página  "Quem sou eu"
+    [ ] Lista de hard skils
+    [ ] Lista de soft skils
 
+[ ] Página Projetos
+    [ ] Detalhes Porjeto
+    [ ] Seção de comentários
+
+[ ] Página de certificados
+
+
+
+
+    
 
